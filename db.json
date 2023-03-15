@@ -1,0 +1,158 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2022",
+      "publisher": "Bloomsbury",
+      "cost": 547,
+      "borrowed": false
+    },
+    {
+        "id": 2,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2023",
+        "publisher": "Bloomsbury",
+        "cost": 145,
+        "borrowed": false
+      },
+      {
+        "id": 3,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2024",
+        "publisher": "Bloomsbury",
+        "cost": 3432,
+        "borrowed": false
+      },
+      {
+        "id": 4,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2025",
+        "publisher": "Bloomsbury",
+        "cost": 1299,
+        "borrowed": false
+      },
+      {
+        "id": 5,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 2525,
+        "borrowed": false
+      },
+      {
+        "id": 6,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2020",
+        "publisher": "Bloomsbury",
+        "cost": 867,
+        "borrowed": false
+      },
+      {
+        "id": 7,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2019",
+        "publisher": "Bloomsbury",
+        "cost": 653,
+        "borrowed": false
+      },
+      {
+        "id": 8,
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Potter and the Philosopher's Stone",
+        "author": "J. K. Rowling",
+        "genre": "fiction",
+        "edition": "2021",
+        "publisher": "Bloomsbury",
+        "cost": 658,
+        "borrowed": false
+      },
+      {
+          "id": 9,
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "Harry Potter and the Philosopher's Stone",
+          "author": "J. K. Rowling",
+          "genre": "fiction",
+          "edition": "2021",
+          "publisher": "Bloomsbury",
+          "cost": 546,
+          "borrowed": false
+        },
+        {
+          "id": 10,
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "Harry Potter and the Philosopher's Stone",
+          "author": "J. K. Rowling",
+          "genre": "fiction",
+          "edition": "2021",
+          "publisher": "Bloomsbury",
+          "cost": 679,
+          "borrowed": false
+        },
+        {
+          "id": 11,
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "Harry Potter and the Philosopher's Stone",
+          "author": "J. K. Rowling",
+          "genre": "Business",
+          "edition": "2018",
+          "publisher": "Bloomsbury",
+          "cost": 239,
+          "borrowed": false
+        },
+        {
+          "id": 12,
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "Harry Potter and the Philosopher's Stone",
+          "author": "J. K. Rowling",
+          "genre": "Tech",
+          "edition": "2017",
+          "publisher": "Bloomsbury",
+          "cost": 329,
+          "borrowed": false
+        },
+        {
+          "id": 13,
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "Harry Potter and the Philosopher's Stone",
+          "author": "J. K. Rowling",
+          "genre": "History",
+          "edition": "2023",
+          "publisher": "Bloomsbury",
+          "cost": 4299,
+          "borrowed": false
+        },
+        {
+          "id": 14,
+          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+          "book_name": "Harry Potter and the Philosopher's Stone",
+          "author": "J. K. Rowling",
+          "genre": "Science",
+          "edition": "2021",
+          "publisher": "Bloomsbury",
+          "cost": 2249,
+          "borrowed": false
+        }
+  ]
+}
