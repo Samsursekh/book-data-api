@@ -1,158 +1,182 @@
 {
-  "books_data": [
-    {
-      "id": 1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2022",
-      "publisher": "Bloomsbury",
-      "cost": 547,
-      "borrowed": false
-    },
+  "hotels": [
+    [
+      { "id": 1,
+        "category": "Family",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Triple",
+        "no_of_persons":"3",
+        "capacity":"3",
+        "cost":"2367",
+        "booked":false
+      }
+    ],
     {
         "id": 2,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2023",
-        "publisher": "Bloomsbury",
-        "cost": 145,
-        "borrowed": false
+        "category": "Friends",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Single",
+        "no_of_persons":"2",
+        "capacity":"3",
+        "cost":"4747",
+        "booked":false
       },
       {
         "id": 3,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2024",
-        "publisher": "Bloomsbury",
-        "cost": 3432,
-        "borrowed": false
+        "category": "Family",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Single",
+        "no_of_persons":"1",
+        "capacity":"3",
+        "cost":"3254",
+        "booked":false
       },
       {
         "id": 4,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2025",
-        "publisher": "Bloomsbury",
-        "cost": 1299,
-        "borrowed": false
+        "category": "Friends",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Double",
+        "no_of_persons":"2",
+        "capacity":"3",
+        "cost":"4000",
+        "booked":false
       },
       {
         "id": 5,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": 2525,
-        "borrowed": false
+        "category": "Couples",
+        "image_url": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "type_of_room": "AC",
+        "bed_type": "Triple",
+        "no_of_persons":"3",
+        "capacity":"3",
+        "cost":"5748",
+        "booked":false
       },
       {
         "id": 6,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2020",
-        "publisher": "Bloomsbury",
-        "cost": 867,
-        "borrowed": false
+        "category": "Friends",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Single",
+        "no_of_persons":"1",
+        "capacity":"3",
+        "cost":"7954",
+        "booked":false
       },
       {
         "id": 7,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2019",
-        "publisher": "Bloomsbury",
-        "cost": 653,
-        "borrowed": false
+        "category": "Couples",
+        "image_url": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "type_of_room": "AC",
+        "bed_type": "Double",
+        "no_of_persons":"2",
+        "capacity":"3",
+        "cost":"2657",
+        "booked":false
       },
       {
         "id": 8,
-        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-        "book_name": "Harry Potter and the Philosopher's Stone",
-        "author": "J. K. Rowling",
-        "genre": "fiction",
-        "edition": "2021",
-        "publisher": "Bloomsbury",
-        "cost": 658,
-        "borrowed": false
+        "category": "Family",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Triple",
+        "no_of_persons":"3",
+        "capacity":"3",
+        "cost":"7423",
+        "booked":false
       },
       {
           "id": 9,
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-          "genre": "fiction",
-          "edition": "2021",
-          "publisher": "Bloomsbury",
-          "cost": 546,
-          "borrowed": false
+          "category": "Friends",
+          "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+          "type_of_room": "AC",
+          "bed_type": "Double",
+          "no_of_persons":"2",
+          "capacity":"3",
+          "cost":"7433",
+          "booked":false
         },
         {
           "id": 10,
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-          "genre": "fiction",
-          "edition": "2021",
-          "publisher": "Bloomsbury",
-          "cost": 679,
-          "borrowed": false
+          "category": "Couples",
+          "image_url": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "type_of_room": "AC",
+          "bed_type": "Double",
+          "no_of_persons":"1",
+          "capacity":"3",
+          "cost":"4235",
+          "booked":false
         },
         {
           "id": 11,
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-          "genre": "Business",
-          "edition": "2018",
-          "publisher": "Bloomsbury",
-          "cost": 239,
-          "borrowed": false
+          "category": "Couples",
+          "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+          "type_of_room": "AC",
+          "bed_type": "Double",
+          "no_of_persons":"2",
+          "capacity":"3",
+          "cost":"5477",
+          "booked":false
         },
         {
           "id": 12,
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-          "genre": "Tech",
-          "edition": "2017",
-          "publisher": "Bloomsbury",
-          "cost": 329,
-          "borrowed": false
+          "category": "Family",
+          "image_url": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "type_of_room": "AC",
+          "bed_type": "Triple",
+          "no_of_persons":"3",
+          "capacity":"3",
+          "cost":"2535",
+          "booked":false
         },
         {
           "id": 13,
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-          "genre": "History",
-          "edition": "2023",
-          "publisher": "Bloomsbury",
-          "cost": 4299,
-          "borrowed": false
+          "category": "Friends",
+          "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+          "type_of_room": "AC",
+          "bed_type": "Double",
+          "no_of_persons":"1",
+          "capacity":"3",
+          "cost":"3556",
+          "booked":false
         },
         {
           "id": 14,
-          "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-          "book_name": "Harry Potter and the Philosopher's Stone",
-          "author": "J. K. Rowling",
-          "genre": "Science",
-          "edition": "2021",
-          "publisher": "Bloomsbury",
-          "cost": 2249,
-          "borrowed": false
+          "category": "Couples",
+          "image_url": "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=400",
+          "type_of_room": "AC",
+          "bed_type": "Double",
+          "no_of_persons":"2",
+          "capacity":"3",
+          "cost":"3245",
+          "booked":false
         }
+  ],
+  "users" : [
+    {
+      "id" :"1",
+      "name" :"Pablo",
+      "email" : "pablo@g.com",
+      "password" : "pablo",
+      "confirm" : "pablo"
+    },
+    {
+      "id" :"2",
+      "name" :"Macho",
+      "email" : "macho@g.com",
+      "password" : "macho",
+      "confirm" : "macho"
+    },
+    {
+      "id" :"3",
+      "name" :"Pikaso",
+      "email" : "Pikaso@g.com",
+      "password" : "Pikaso",
+      "confirm" : "Pikaso"
+    }
   ]
 }
