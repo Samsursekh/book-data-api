@@ -1,6 +1,6 @@
 {
   "hotels": [
-    [
+    
       { "id": 1,
         "category": "Family",
         "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
@@ -10,8 +10,7 @@
         "capacity":"3",
         "cost":"2367",
         "booked":false
-      }
-    ],
+      },
     {
         "id": 2,
         "category": "Friends",
